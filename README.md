@@ -2,7 +2,7 @@
 
 Ce repository contient un modèle de contrat cadre de développement informatique et d'hébergement web que j'utilise pour mes missions de micro-entrepreneur.
 
-- [contrat-cadretemplate.md](./contrat-cadre.md)
+- [contrat-cadre-template.md](./contrat-cadre-template.md)
 
 Voici le modèle de licence que j'intègre dans les dépôts Git des projets freelance sur lesquels je travaille :
 
