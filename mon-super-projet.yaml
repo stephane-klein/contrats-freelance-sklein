@@ -18,3 +18,5 @@ variables:
     ressources grâce à des outils avancés d'analyse de données et de gestion des flux de travail.
   prénom_nom_product_owner_client: Élise Dupont
   date_de_prise_effet_contrat: 1 juillet 2024
+  prix_prestataire_par_journée: 10
+  prix_prestataire_par_heure: 1
