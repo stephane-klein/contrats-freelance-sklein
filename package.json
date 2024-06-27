@@ -1,0 +1,9 @@
+{
+  "name": "contrats-freelance-sklein",
+  "type": "module",
+  "keywords": [],
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "nunjucks": "3.2.4"
+  }
+}

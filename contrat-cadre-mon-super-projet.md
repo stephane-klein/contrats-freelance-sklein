@@ -1,4 +1,4 @@
-# Contrat cadre de développement informatique et hébergement web pour {{nom_projet_client}}
+# Contrat cadre de développement informatique et hébergement web pour Innovative Tech Solutions
 
 Identifiant de contrat : `draft-zguj4t-YYYY-mm-dd_HHMM`.
 
@@ -6,25 +6,26 @@ Identifiant de contrat : `draft-zguj4t-YYYY-mm-dd_HHMM`.
 
 Ce contrat cadre de prestation de services (ci-après dénommé le "Contrat") est conclu entre :
 
-- {{nom_de_la_société_client}}, une société {{forme_juridique_client}} dont le siège social est situé au {{adresse_société_client}}, immatriculée au Registre du Commerce et des Sociétés de {{ville_registre_client}} sous le numéro {{numéro_siret_de_la_société_client}}, représentée par {{nom_du_représentant_société_client}}, en qualité de {{qualité_du_représentant_client}}, dûment habilité aux fins des présentes (ci-après dénommée le "Client"),
+- TechnoFuture Corp, une société SAS dont le siège social est situé au 1234 Innovation Avenue 70000 Techville, immatriculée au Registre du Commerce et des Sociétés de Techville sous le numéro 123456789, représentée par Élise Dupont, en qualité de Directrice, dûment habilité aux fins des présentes (ci-après dénommée le "Client"),
 
 Et
 
-- {{prénom_et_nom_du_micro_entrepreneur_prestataire}}, micro-entrepreneur, dont le siège est situé au {{adresse_du_micro_entrepreneur_prestataire}}, immatriculé au Répertoire des Entreprises et des Établissements sous le numéro {{numéro_siret_prestataire}}, (ci-après dénommé le "Prestataire").
+- Julien Martin, micro-entrepreneur, dont le siège est situé au 56 Rue des Entrepreneurs, immatriculé au Répertoire des Entreprises et des Établissements sous le numéro 987654321, (ci-après dénommé le "Prestataire").
 
 ## Préambule
 
-Considérant que {{nom_de_la_société_client}} souhaite développer une application intitulée {{nom_projet_client}} dont l’objectif principal est {{présentation_projet_client}}
+Considérant que TechnoFuture Corp souhaite développer une application intitulée Innovative Tech Solutions dont l’objectif principal est de développer une plateforme technologique innovante pour la gestion automatisée des processus d&#39;entreprise. Cette solution permettra à TechnoFuture Corp. d&#39;améliorer son efficacité opérationnelle et d&#39;optimiser ses ressources grâce à des outils avancés d&#39;analyse de données et de gestion des flux de travail.
 
-Considérant que {{prénom_et_nom_du_micro_entrepreneur_prestataire}} possède les compétences nécessaires pour développer cette application.
 
-Considérant que {{nom_de_la_société_client}} a proposé à {{prénom_et_nom_du_micro_entrepreneur_prestataire}} de s'occuper du développement de cette application web.
+Considérant que Julien Martin possède les compétences nécessaires pour développer cette application.
 
-Considérant que {{nom_de_la_société_client}} souhaite héberger — publier sur Internet — l'application web {{nom_projet_client}}, le site web vitrine de {{nom_projet_client}} ainsi que différentes versions de développement — par exemple, les environnements de staging — de l'application web.
+Considérant que TechnoFuture Corp a proposé à Julien Martin de s'occuper du développement de cette application web.
 
-Considérant que {{prénom_et_nom_du_micro_entrepreneur_prestataire}} possède les compétences nécessaires pour héberger ces services.
+Considérant que TechnoFuture Corp souhaite héberger — publier sur Internet — l'application web Innovative Tech Solutions, le site web vitrine de Innovative Tech Solutions ainsi que différentes versions de développement — par exemple, les environnements de staging — de l'application web.
 
-Considérant que {{nom_de_la_société_client}} a proposé à {{prénom_et_nom_du_micro_entrepreneur_prestataire}} de s'occuper de ces tâches d'hébergement.
+Considérant que Julien Martin possède les compétences nécessaires pour héberger ces services.
+
+Considérant que TechnoFuture Corp a proposé à Julien Martin de s'occuper de ces tâches d'hébergement.
 
 Ceci exposé, il a été convenu ce qui suit.
 
@@ -49,8 +50,8 @@ Le Client et le Prestataire s'engagent à suivre, autant que possible, les princ
 
 ## Article 1 : Object du contrat
 
-Le présent contrat a pour objet de définir les termes et les conditions selon lesquels le prestataire fournira des prestations de développement informatique et d'hébergement pour le client, dans le cadre du projet {{nom_projet_client}}.  
-Cela comprend l'application web {{nom_projet_client}}, le site vitrine et tout autre développement nécessaire au projet.
+Le présent contrat a pour objet de définir les termes et les conditions selon lesquels le prestataire fournira des prestations de développement informatique et d'hébergement pour le client, dans le cadre du projet Innovative Tech Solutions.  
+Cela comprend l'application web Innovative Tech Solutions, le site vitrine et tout autre développement nécessaire au projet.
 
 ## Article 2 : Prestations en régie
 
@@ -220,9 +221,9 @@ Une journée de prestation de service correspond à 7h de travail.
 
 ### Article 20 : Tarif des prestations
 
-Les prestations (exemples dans article 9) seront facturées au client {{prix_prestataire_par_journée}} € HT par journée, soit {{prix_prestataire_par_heure}} € HT de l'heure.
+Les prestations (exemples dans article 9) seront facturées au client  € HT par journée, soit  € HT de l'heure.
 
-Étant donné que le prestataire bénéficie de la franchise de TVA (TVA non applicable, art. 293 B du CGI), la journée est facturé {{prix_prestataire_par_journée}} € TTC.
+Étant donné que le prestataire bénéficie de la franchise de TVA (TVA non applicable, art. 293 B du CGI), la journée est facturé  € TTC.
 
 ### Article 21 : Comptabilisation des Heures
 
@@ -237,7 +238,7 @@ Le prestataire s'engage à indiquer autant que possible le détail du temps pass
 
 ### Article 23 : Date de prise d'effet
 
-Le présent contrat prend effet le {{date_de_prise_effet_contrat}}.
+Le présent contrat prend effet le 1 juillet 2024.
 
 ### Article 24 : Renouvellement
 
@@ -333,9 +334,9 @@ Afin d'éviter tout quiproquo, le client et le prestataire s'engagent à communi
 
 ### Article 36 : Référent du projet et prise de décision
 
-{{prénom_nom_product_owner_client}}, directeur général de {{nom_de_la_société_client}} (le Client), sera le Product Owner et référent auprès du Prestataire pour la conduite des projets liés au présent contrat. En cette qualité, {{prénom_nom_product_owner_client}} sera le point de contact principal pour toutes les questions relatives aux projets et sera responsable de la prise de décisions.
+Élise Dupont, directeur général de TechnoFuture Corp (le Client), sera le Product Owner et référent auprès du Prestataire pour la conduite des projets liés au présent contrat. En cette qualité, Élise Dupont sera le point de contact principal pour toutes les questions relatives aux projets et sera responsable de la prise de décisions.
 
-{{prénom_nom_product_owner_client}} Vierra aura le dernier mot sur toutes les décisions du projet, garantissant ainsi une direction claire et cohérente.
+Élise Dupont Vierra aura le dernier mot sur toutes les décisions du projet, garantissant ainsi une direction claire et cohérente.
 
 ### Article 37 : Droit de refus de mise en œuvre de technologies non maîtrisées
 
@@ -362,28 +363,28 @@ Licence d'utilisation de tout le code source contenu dans ce dépôt Git.
 
 ## Propriété et Droits d'Auteur
 
-Le code source et l'exécution de ce code source présents dans ce dépôt sont la propriété exclusive de la société {{nom_de_la_société_client}}.
-Tous les droits, titres et intérêts relatifs à ce code source et à son exécution sont réservés à {{nom_de_la_société_client}}.
+Le code source et l'exécution de ce code source présents dans ce dépôt sont la propriété exclusive de la société TechnoFuture Corp.
+Tous les droits, titres et intérêts relatifs à ce code source et à son exécution sont réservés à TechnoFuture Corp.
 
 ## Autorisation d'Utilisation
 
-En accédant à ce dépôt, vous acceptez que vous n'avez aucun droit d'utilisation, de reproduction, de distribution ou de modification de ce code source ou de son exécution, sauf autorisation expresse et écrite de la société {{nom_de_la_société_client}}.
+En accédant à ce dépôt, vous acceptez que vous n'avez aucun droit d'utilisation, de reproduction, de distribution ou de modification de ce code source ou de son exécution, sauf autorisation expresse et écrite de la société TechnoFuture Corp.
 
 ## Restrictions
 
-1. **Utilisation Personnelle et Commerciale :** Aucune partie de ce code source ne peut être utilisée à des fins personnelles ou commerciales sans le consentement préalable écrit de {{nom_de_la_société_client}}.
-2. **Modification :** Vous n'êtes pas autorisé à modifier, adapter ou créer des œuvres dérivées basées sur ce code source sans l'accord écrit de {{nom_de_la_société_client}}.
-3. **Distribution :** Il est interdit de distribuer ce code source ou toute exécution de ce code source, en tout ou en partie, sans autorisation écrite préalable de {{nom_de_la_société_client}}.
+1. **Utilisation Personnelle et Commerciale :** Aucune partie de ce code source ne peut être utilisée à des fins personnelles ou commerciales sans le consentement préalable écrit de TechnoFuture Corp.
+2. **Modification :** Vous n'êtes pas autorisé à modifier, adapter ou créer des œuvres dérivées basées sur ce code source sans l'accord écrit de TechnoFuture Corp.
+3. **Distribution :** Il est interdit de distribuer ce code source ou toute exécution de ce code source, en tout ou en partie, sans autorisation écrite préalable de TechnoFuture Corp.
 
 ## Limitation de Responsabilité
 
-Ce code source est fourni "tel quel", sans garantie d'aucune sorte, expresse ou implicite, y compris, mais sans s'y limiter, les garanties de qualité marchande, d'adéquation à un usage particulier et d'absence de contrefaçon. En aucun cas, {{nom_de_la_société_client}} ne pourra être tenue responsable de tout dommage direct, indirect, incident, spécial ou consécutif, découlant de ou en relation avec l'utilisation ou la performance de ce code source.
+Ce code source est fourni "tel quel", sans garantie d'aucune sorte, expresse ou implicite, y compris, mais sans s'y limiter, les garanties de qualité marchande, d'adéquation à un usage particulier et d'absence de contrefaçon. En aucun cas, TechnoFuture Corp ne pourra être tenue responsable de tout dommage direct, indirect, incident, spécial ou consécutif, découlant de ou en relation avec l'utilisation ou la performance de ce code source.
 
 ## Contact
 
-Pour toute question ou demande d'autorisation concernant ce code source, veuillez contacter la société {{nom_de_la_société_client}} à l'adresse suivante :
+Pour toute question ou demande d'autorisation concernant ce code source, veuillez contacter la société TechnoFuture Corp à l'adresse suivante :
 
-{{nom_de_la_société_client}}
-{{adresse_société_client}} 
-{{email_client}}
+TechnoFuture Corp
+1234 Innovation Avenue 70000 Techville 
+
 ```

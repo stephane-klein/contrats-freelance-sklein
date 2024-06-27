@@ -1,0 +1,20 @@
+templateFile: contrat-cadre-template.md
+outputFile: contrat-cadre-mon-super-projet.md
+variables:
+  nom_projet_client: "Innovative Tech Solutions"
+  nom_de_la_société_client: TechnoFuture Corp
+  forme_juridique_client: SAS
+  adresse_société_client: 1234 Innovation Avenue 70000 Techville
+  ville_registre_client: Techville
+  numéro_siret_de_la_société_client: 123456789
+  nom_du_représentant_société_client: Élise Dupont
+  qualité_du_représentant_client: Directrice
+  prénom_et_nom_du_micro_entrepreneur_prestataire: Julien Martin
+  adresse_du_micro_entrepreneur_prestataire: 56 Rue des Entrepreneurs
+  numéro_siret_prestataire: 987654321
+  présentation_projet_client: >
+    de développer une plateforme technologique innovante pour la gestion automatisée des processus d'entreprise.
+    Cette solution permettra à TechnoFuture Corp. d'améliorer son efficacité opérationnelle et d'optimiser ses
+    ressources grâce à des outils avancés d'analyse de données et de gestion des flux de travail.
+  prénom_nom_product_owner_client: Élise Dupont
+  date_de_prise_effet_contrat: 1 juillet 2024
