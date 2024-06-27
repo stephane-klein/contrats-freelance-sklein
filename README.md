@@ -1,6 +1,6 @@
 # Contrat cadre Freelance de Stéphane Klein
 
-Ce repository contient un modèle de contrat cadre de développement informatique et hébergement web que j'utilise pour mes missions de micro-entrepreneur.
+Ce repository contient un modèle de contrat cadre de développement informatique et d'hébergement web que j'utilise pour mes missions de micro-entrepreneur.
 
 - [contrat-cadretemplate.md](./contrat-cadre.md)
 
