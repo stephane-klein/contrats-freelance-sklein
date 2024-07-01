@@ -332,7 +332,7 @@ Le Prestataire est également libre de réutiliser du code ou de la documentatio
 
 ### Article 35 : Communication
 
-Afin d'éviter tout quiproquo, le client et le prestataire s'engagent à communiquer leurs décisions par écrit, soit dans des commentaires d'issues, par chat ou par e-mail.
+Afin d'éviter tout quiproquo, le client et le prestataire s'engagent à communiquer leurs décisions par écrit, soit dans des commentaires d'issues, par chat ou par e-mail (julien@technofuture.com).
 
 ### Article 36 : Référent du projet et prise de décision
 

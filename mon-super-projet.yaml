@@ -20,3 +20,4 @@ variables:
   date_de_prise_effet_contrat: 1 juillet 2024
   prix_prestataire_par_journée: 10
   prix_prestataire_par_heure: 1
+  email_prestataire: julien@technofuture.com
