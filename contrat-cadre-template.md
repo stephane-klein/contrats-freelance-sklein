@@ -210,9 +210,9 @@ Ces tâches seront regroupées sur une ligne unique dans la facturation sans dé
 
 ### Article 18 : Décompte des temps de spécification et de réunion
 
-Le temps consacré aux spécifications fonctionnelles et techniques est décompté du crédit de jours de prestation du Client.
+Le temps consacré aux spécifications fonctionnelles et techniques est décompté du crédit de heures de prestation du Client.
 
-Le temps consacré aux réunions est également décompté du crédit de jours de prestation du Client.
+Le temps consacré aux réunions est également décompté du crédit de heures de prestation du Client.
 
 Le Prestataire s'engage, autant que possible, à ne pas décompter les temps de discussion amicale et hors sujet avec la mission du Client.
 
