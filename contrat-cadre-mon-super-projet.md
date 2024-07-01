@@ -207,7 +207,7 @@ Le Client informera le Prestataire de ses enjeux business susceptibles d'affecte
 
 Afin d'éviter une dérive de spécification excessive, le prestataire a la possibilité d'effectuer des petites tâches de moins de 10 minutes sans créer d'issue.
 
-Ces tâches ne seront pas détaillées dans la facturation, mais elles seront néanmoins facturées.
+Ces tâches seront regroupées sur une ligne unique dans la facturation sans détails précis.
 
 ### Article 18 : Décompte des temps de spécification et de réunion
 
