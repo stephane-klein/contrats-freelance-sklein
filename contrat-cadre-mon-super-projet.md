@@ -85,19 +85,19 @@ Le prestataire s'engage à aider le client dans cette tâche.
 
 ### Article 6 : Estimation et limites des coûts des services cloud
 
-Le prestataire aidera le client à budgétiser et maîtriser ses coûts d'hébergement.
+Le prestataire s'engage à aider le client à budgétiser et maîtriser ses coûts d'hébergement.
 
-Avant toute souscription de nouveaux services cloud ou mise à niveau de services existants, le prestataire fournira au client une estimation des coûts mensuels ou annuels. Le prestataire attendra la validation du client avant d'effectuer toute action.
+Avant toute souscription de nouveaux services cloud ou mise à niveau de services existants, le prestataire s'engage à fournir au client une estimation des coûts mensuels ou annuels. Le prestataire s'engage à attendre la validation du client avant d'effectuer toute action.
 
 Toutefois, en cas d'urgence critique pour le business du client, ce dernier peut déroger à cette règle d'attente de validation.
 
-Lorsque les fonctionnalités des fournisseurs de services cloud le permettent, le prestataire proposera la mise en place de limites de dépenses.
+Lorsque les fonctionnalités des fournisseurs de services cloud le permettent, le prestataire s'engage à proposer la mise en place de limites de dépenses.
 
 ###  Article 7 : Fiabilité de l'hébergement
 
 Le Prestataire ne souhaite pas s'engager sur des taux classiques de disponibilité de service.
 
-À la place, le Prestataire proposera la mise en place d'actions concrètes visant à atteindre le niveau de fiabilité souhaité par le Client, adapté à ses moyens financiers.
+À la place, le Prestataire s'engage à proposer la mise en place d'actions concrètes visant à atteindre le niveau de fiabilité souhaité par le Client, adapté à ses moyens financiers.
 
 Exemples d'actions possibles :
 
@@ -116,11 +116,11 @@ Il est important de noter que ces actions, qui visent à améliorer la fiabilit�
 
 Le prestataire s'engage à conseiller le client sur les choix les mieux adaptés à son business, pour trouver un équilibre entre la fiabilité et les coûts.
 
-Les actions mises en place seront documentées dans le dépôt GitHub et communiquées avec transparence au Client. Le Prestataire fera de son mieux pour vulgariser ces actions afin qu'elles soient compréhensibles pour le Client.
+Le Prestataire s'engage à documenter les actions mises en place dans le dépôt GitHub et à les communiquer avec transparence au Client. Le Prestataire s'engage à faire de son mieux pour vulgariser ces actions afin qu'elles soient compréhensibles pour le Client.
 
 ### Article 8 : Réactivité en cas de panne
 
-Le Prestataire s'engage à se mettre en capacité de réagir en moins de 24 heures en cas de panne affectant les services du Client. Pour ce faire, le Prestataire prendra les mesures suivantes :
+Le Prestataire s'engage à se mettre en capacité de réagir en moins de 24 heures en cas de panne affectant les services du Client. Pour ce faire, le Prestataire s'engage à prendra les mesures suivantes :
 
 - Disposer d'un accès 4G à proximité pour garantir une connexion internet.
 - Rester accessible par SMS pour permettre une communication rapide.
@@ -165,7 +165,7 @@ Le Client peut également commander des jours de prestation pour une période pl
 
 Les commandes doivent être effectuées par écrit, précisant le nombre de jours homme souhaités et la période de prestation souhaitée. Chaque commande validée par le Prestataire pour confirmation de disponibilité (voir article 11) générera un bon de commande.
 
-Le Client pourra également commander des jours supplémentaires sans respecter le préavis d'un mois, à condition que le Prestataire ait des journées de disponibilité.
+Le Client peut également commander des jours supplémentaires sans respecter le préavis d'un mois, à condition que le Prestataire ait des journées de disponibilité.
 
 Le Prestataire s'engage à faire de son mieux pour répondre aux demandes du Client, sous réserve de ses disponibilités.
 
@@ -185,7 +185,7 @@ Le Prestataire s'engage à informer régulièrement le Client de l'évolution de
 
 Le Prestataire s'engage à ne pas faire de surbooking de ses prestations. Il garantit que les jours homme commandés par le Client seront réservés exclusivement pour les prestations du Client pendant les périodes convenues.
 
-Si, malgré cet engagement, le Prestataire se retrouve dans une situation de surbooking due à une erreur ou à une circonstance exceptionnelle, il en informera le Client par écrit dans les meilleurs délais.
+Si, malgré cet engagement, le prestataire se retrouve dans une situation de surbooking due à une erreur ou à une circonstance exceptionnelle, le prestataire s'engage à en informer le Client par écrit dans les meilleurs délais.
 
 Le Prestataire et le Client travailleront ensemble pour trouver une solution mutuellement acceptable, pouvant inclure la reprogrammation des jours homme.
 
@@ -195,15 +195,15 @@ Des issues GitHub seront utilisées pour décrire les objectifs des prestations.
 
 Le Client peut passer commande en ajoutant un commentaire explicite à l'issue correspondante, cette commande devant entrer dans le cadre des jours homme préalablement réservés (article 10).
 
-Le prestataire indiquera dans l'issue une estimation basse et haute du temps nécessaire pour réaliser la prestation.
+Le prestataire s'engage à indiquer dans l'issue une estimation basse et haute du temps nécessaire pour réaliser la prestation.
 
 ### Article 16 : Planification des jours de prestation
 
 Le Prestataire reste libre de planifier les jours de prestation au sein de ses semaines ou de son mois comme bon lui semble.
 
-Toutefois, le Prestataire s'engage à prendre en compte, autant que possible, les contraintes business du Client lors de la planification des prestations, afin de minimiser les impacts sur les activités du Client.
+Toutefois, le prestataire s'engage à prendre en compte, autant que possible, les contraintes business du Client lors de la planification des prestations, afin de minimiser les impacts sur les activités du Client.
 
-Le Client informera le Prestataire de ses enjeux business susceptibles d'affecter la planification des prestations, afin que le Prestataire puisse intégrer ces contraintes dans sa planification.
+Le client informera le Prestataire de ses enjeux business susceptibles d'affecter la planification des prestations, afin que le Prestataire puisse intégrer ces contraintes dans sa planification.
 
 ### Article 17 : Petites tâches
 
