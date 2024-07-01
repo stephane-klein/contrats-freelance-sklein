@@ -21,3 +21,16 @@ Fichier généré avec succès: contrat-cadre-mon-super-projet.md
 ```
 
 Fichier de paramétrage: [`./mon-super-projet.yaml`](./mon-super-projet.yaml)
+
+## Conversion du contrat vers le format ODT
+
+Pour convertir un contrat au format [ODT](https://fr.wikipedia.org/wiki/OpenDocument) à l'aide de [pandoc](https://pandoc.org/), vous pouvez utiliser la commande suivante :
+
+```sh
+$ pandoc contrat-cadre-mon-super-projet.md --from markdown --reference-doc=reference-doc-template.odt --to odt -o contrat-cadre-mon-super-projet.odt
+```
+
+Cette conversion peut être particulièrement utile pour :
+
+- Transformer le document en format PDF
+- Importer le contrat dans Google Docs pour permettre aux utilisateurs d'ajouter des commentaires de révision
