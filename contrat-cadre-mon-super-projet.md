@@ -67,19 +67,21 @@ Si le Client souhaite attribuer des missions de management ou de gestion d'équi
 
 ## Section 1 : Hébergement et Services Cloud
 
-### Article 4 : Propriété des comptes
+### Article 4 : Propriété et gestion des comptes de services cloud
 
-Le client sera le propriétaire des comptes d'hébergement sur les fournisseurs de services cloud (cloud providers).
+La propriété des comptes des services cloud, loués par exemple pour l'hébergement des sites, appartient au client.
 
-Le prestataire disposera d'un accès administrateur à ces comptes pour réaliser les tâches d'installation, de configuration et de débogage des serveurs.
+Le prestataire s'engage à céder la propriété de ces comptes au client dès leur création.
+
+Le client s'engage à donner au prestataire un accès administrateur à ces comptes pour réaliser les tâches d'installation, de configuration et de débogage des serveurs.
 
 ### Article 5 : Paiement des services cloud
 
 Le client s'engage à payer directement, avec sa carte bancaire ou par prélèvement bancaire, toutes les factures des services cloud utilisés dans le cadre des missions de ce contrat.
 
-Le client sera responsable de maintenir ses informations de paiement à jour avec les fournisseurs de services cloud afin d'assurer un paiement ininterrompu des services.
+Le client est responsable de maintenir ses informations de paiement à jour avec les fournisseurs de services cloud afin d'assurer un paiement ininterrompu des services.
 
-Le prestataire fera son possible pour aider le client dans cette tâche.
+Le prestataire s'engage à aider le client dans cette tâche.
 
 ### Article 6 : Estimation et limites des coûts des services cloud
 
