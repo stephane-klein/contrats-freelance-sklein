@@ -43,7 +43,7 @@ Le Client et le Prestataire s'engagent à suivre, autant que possible, les princ
     - Limitation à 10% du temps consacré aux spécifications.
     - Limitation à 20% du temps consacré aux réunions.
     - Limitation à 20% du temps consacré à la dette technique.
-    - Ne pas avoir peur de suivre une approche exploratoire, c'est-à-dire, [accepter de faire des paris](https://basecamp.com/shapeup/1.5-chapter-06#ingredient-2-appetite) et s'autoriser à abandonner une piste.
+    - Ne pas hésiter à explorer des solutions incertaines, [en pratiquant le time boxing pour ces explorations](https://basecamp.com/shapeup/1.5-chapter-06#ingredient-2-appetite), et s'autoriser à abandonner une piste si cela ne donne rien.
 - Utilisation des artefacts intermédiaires pour permettre la transparence, la progression de l'avancement et l'identification éventuelle des difficultés.
 
 
