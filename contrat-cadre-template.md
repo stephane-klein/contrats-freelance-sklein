@@ -224,7 +224,7 @@ Une journée de prestation de service correspond à 7h de travail.
 
 Les prestations (exemples dans article 9) seront facturées au client {{prix_prestataire_par_journée}} € HT par journée, soit {{prix_prestataire_par_heure}} € HT de l'heure.
 
-Étant donné que le prestataire bénéficie de la franchise de TVA (TVA non applicable, art. 293 B du CGI), la journée est facturé {{prix_prestataire_par_journée}} € TTC.
+Tant que le prestataire bénéficie de la franchise de TVA (TVA non applicable, art. 293 B du CGI), la journée est facturé {{prix_prestataire_par_journée}} € TTC.
 
 ### Article 21 : Comptabilisation des Heures
 
