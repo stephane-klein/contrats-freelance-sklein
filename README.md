@@ -11,7 +11,7 @@ Voici le modèle de licence que j'intègre dans les dépôts Git des projets fre
 
 Le contenu de ce dépôt GitHub est disponible sous la licence [`CC-BY-SA 4.0`](https://creativecommons.org/licenses/by-sa/4.0/deed.fr).
 
-## Métohde pour générer un contrat à partir de paramètres
+## Méthode pour générer un contrat à partir de paramètres
 
 ```sh
 $ mise install
