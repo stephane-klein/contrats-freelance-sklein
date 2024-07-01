@@ -105,6 +105,8 @@ Exemples d'actions possibles :
 - Mise en place de tests unitaires et/ou fonctionnels pour réduire les risques de bugs lors des mises à jour.
 - Mise en place d'un hébergement multi-cloud.
 - Mise en place d'un système de basculement automatique en cas de panne.
+- Formation et assistance des développeurs pour contribuer au code source du projet.
+- Support technique pour les utilisateurs et les développeurs.
 - ...
 
 Il est important de noter que ces actions, qui visent à améliorer la fiabilité, ont un coût financier et peuvent affecter la vélocité de développement.
