@@ -243,7 +243,7 @@ Le présent contrat prend effet le {{date_de_prise_effet_contrat}}.
 
 ### Article 24 : Renouvellement
 
-Le contrat est reconduit automatiquement chaque mois, à moins qu'il ne soit résilié conformément aux dispositions ci-dessous (article 22).
+Le contrat est reconduit automatiquement chaque mois, à moins qu'il ne soit résilié conformément aux dispositions ci-dessous (article 25).
 
 ### Article 25 : Résiliation
 
